@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools>=61.0","wheel"]
+build-backend = "setuptools.backends.legacy:build"
+
+[project]
+name = "biomarcadores-neuroinflamacion-depresion"
+version = "1.0.0"
+description = "Biomarcadores de neuroinflamacion en depresion 2020-2024. DOI: 10.7910/DVN/OCXEK7"
+license = {text = "CC0-1.0"}
+authors = [{name = "Juan Moises de la Serna", email = "juanmoises.delaserna@gmail.com"}]
+keywords = ["neuroinflamacion","depresion","biomarcadores","IL-6","PCR","TNF-alfa"]
+requires-python = ">=3.7"
+dependencies = ["pandas>=1.3.0","requests>=2.25.0","numpy>=1.20.0"]
+
+[project.urls]
+Homepage = "https://github.com/juanmoisesd/biomarcadores-neuroinflamacion-depresion-2020-2024"
+"DOI del dataset" = "https://doi.org/10.7910/DVN/OCXEK7"
