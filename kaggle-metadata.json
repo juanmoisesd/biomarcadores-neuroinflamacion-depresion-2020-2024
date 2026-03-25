@@ -1,0 +1,23 @@
+{
+  "title": "Datos globales de biomarcadores de neuroinflamación (IL-6, TNF-alfa, PCR) en dep",
+  "id": "juanmoisesd/biomarcadores-neuroinflamacion-depresion-2020-2024",
+  "licenses": [
+    {
+      "name": "CC BY 4.0"
+    }
+  ],
+  "keywords": [
+    "biomarcadores",
+    "dataset",
+    "depresion",
+    "il-6",
+    "neuroinflamacion",
+    "open-data",
+    "salud-mental",
+    "tnf-alfa",
+    "open-data",
+    "research"
+  ],
+  "description": "Datos globales de biomarcadores de neuroinflamación (IL-6, TNF-alfa, PCR) en depresión y trastorno depresivo mayor. Metaanálisis 2020-2024. DOI: 10.7910/DVN/OCXEK7\n\nDOI: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/OCXEK7\nGitHub: https://github.com/juanmoisesd/biomarcadores-neuroinflamacion-depresion-2020-2024\nAuthor: de la Serna, Juan Moisés",
+  "isPrivate": false
+}
